@@ -80,3 +80,12 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+:root {
+    --prim-pink: #F071F0;
+    --prim-teal: #9BEBD8;
+    --prim-blue: #9BE7EB;
+    --prim_orange: #FA8520;
+    --blue-two: #05B3F2;
+    --teal-two: #5ACCAC;
+}
